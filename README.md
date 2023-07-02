@@ -1,6 +1,7 @@
 # Ruby-on-Rails Web Application
 
 ## Version
+※2023/07/01　時点
 - Rails 6.1.7.3
 - ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [x86_64-linux]
 - node v16.19.0
