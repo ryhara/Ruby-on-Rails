@@ -32,15 +32,15 @@ $ yarn add @babel/plugin-proposal-private-methods @babel/plugin-proposal-private
 
 
 
-## [meshiterro](/ryhara/meshiterro)
+## [meshiterro](https://github.com/ryhara/meshiterro)
 Ruby on rails 練習用　アプリケーション
 
-## [Bookers1](/ryhara/Bookers1)
+## [Bookers1](https://github.com/ryhara/Bookers1)
 **本の感想投稿アプリ**
 
 本のタイトルと感想を投稿、閲覧、編集、削除が可能
 
-## [Bookers2](/ryhara/Bookers2)
+## [Bookers2](https://github.com/ryhara/Bookers2)
 **ログイン、ユーザー機能付き、本の感想投稿アプリ**
 
 本のタイトルと感想を投稿、閲覧、編集、削除が可能
@@ -49,7 +49,7 @@ Ruby on rails 練習用　アプリケーション
 
 他のユーザーの投稿も閲覧可能
 
-## [Bookers2_ver2](/ryhara/Bookers2_ver2)
+## [Bookers2_ver2](https://github.com/ryhara/Bookers2_ver2)
 **Bookers2 + いいね、コメント機能**
 
 本のタイトルと感想を投稿、閲覧、編集、削除が可能
@@ -58,7 +58,7 @@ Ruby on rails 練習用　アプリケーション
 
 他のユーザーの投稿にいいねやコメントが可能
 
-## [nagano-cake](/ryhara/)
+## [nagano-cake](https://github.com/ryhara/)
 ECサイト
 
 制作中
