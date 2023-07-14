@@ -33,8 +33,8 @@ $ yarn add @babel/plugin-proposal-private-methods @babel/plugin-proposal-private
 
 
 
-## [meshiterro](https://github.com/ryhara/meshiterro)
-Ruby on rails 練習用　アプリケーション
+<!-- ## [meshiterro](https://github.com/ryhara/meshiterro)
+Ruby on rails 練習用　アプリケーション -->
 
 ## [Bookers1](https://github.com/ryhara/Bookers1)
 **本の感想投稿アプリ**
