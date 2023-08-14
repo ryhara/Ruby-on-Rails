@@ -59,8 +59,8 @@ Ruby on rails 練習用　アプリケーション -->
 
 他のユーザーの投稿にいいねやコメントが可能
 
-## [nagano-cake](https://github.com/ryhara/)
-**ECサイト 製作中**
+## [nagano-cake]([https://github.com/ryhara/](https://github.com/ryhara/nagano-cake))
+**ECサイト 未実装部分あり**
 
 ケーキ屋のECサイト
 
