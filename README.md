@@ -55,7 +55,7 @@ Ruby on rails 練習用　アプリケーション -->
 - 上記のBookers2と同様の機能
 - 他のユーザーの投稿にいいねやコメントが可能
 
-## [Bokkers2_ver3](https://github.com/ryhara/Bookers2_ver3)
+## [Bookers2_ver3](https://github.com/ryhara/Bookers2_ver3)
 **Bookers2_ver2 + いいね、コメント機能の非同期通信化 + 検索機能 + フォロー/フォロワー機能**
 
 - 上記のBookers2_ver2に加えて、フォロー/フォロワー機能、検索機能を追加
