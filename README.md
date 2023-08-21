@@ -61,7 +61,7 @@ Ruby on rails 練習用　アプリケーション -->
 - 上記のBookers2_ver2に加えて、フォロー/フォロワー機能、検索機能を追加
 - JavaScript, jQueryを用いたいいね、コメント機能の非同期通信化
 - 他のユーザーのフォローが可能、フォロー、フォロワーの一覧も可能、X(旧Twitter)のイメージ
-- UserとBookの2種類で検索可能、完全一致、前方一致、後方一致、部分一致で検索が可能（検索機能未実装）
+- UserとBookの2種類で検索可能、完全一致、前方一致、後方一致、部分一致で検索が可能
 
 ## [nagano-cake](https://github.com/ryhara/nagano-cake)
 **ECサイト 未実装部分あり**
