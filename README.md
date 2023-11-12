@@ -49,7 +49,7 @@ Ruby on rails 練習用　アプリケーション -->
 - ユーザーの登録、ログイン、ログアウト、ユーザー情報の編集が可能
 - 他のユーザーの投稿も閲覧可能
 
-## [Bookers2_ver2](https://github.com/ryhara/Bookers2_ver2)
+## [Bookers2_ver2](https://github.com/ryhara/Bookers2_ver2)　(Private Repository)
 **Bookers2 + いいね、コメント機能**
 
 - 上記のBookers2と同様の機能
